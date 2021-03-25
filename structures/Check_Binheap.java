@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Bin_heap {
+public class Check_Binheap {
     public static void main(String[] args) throws FileNotFoundException {
 
         int n;
