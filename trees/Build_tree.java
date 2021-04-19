@@ -3,7 +3,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import java.io.File;
 
-public class  Build_tree implements Runnable {
+public class Build_tree implements Runnable {
     static class Node {
         int data;
         Node left, right;
