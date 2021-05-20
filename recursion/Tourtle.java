@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Tourtle {
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) throws IOException {
         final long e = (int) (Math.pow(10, 9) + 7);
         
         Scanner sc = new Scanner(new File("input.txt"));
